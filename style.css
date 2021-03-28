@@ -28,8 +28,6 @@ body {
     url("./images/bg-pattern-bottom-mobile.svg");
   background-repeat: no-repeat, no-repeat;
   background-position: 124% -1%, 166% 51%;
-  /* background-image: url(./images/bg-pattern-top-mobile.svg) top center no-repeat,
-    url(./images/bg-pattern-bottom-mobile.svg) bottom center no-repeat; */
 }
 
 .container {
